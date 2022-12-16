@@ -1,2 +1,3 @@
-# django-zappa-contaienr-template
-ZappaでDjangoのContainerをデプロイコード
+# django-zappa-container-template
+
+- Zappa × Django × Container

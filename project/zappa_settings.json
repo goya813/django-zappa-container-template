@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "aws_region": "ap-northeast-1",
+        "django_settings": "project.settings",
+        "project_name": "django-zappa-co",
+        "runtime": "python3.9"
+    }
+}
